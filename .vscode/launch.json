@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-LeadsApplication<leads>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "leadboost.com.leads.LeadsApplication",
+            "projectName": "leads",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
